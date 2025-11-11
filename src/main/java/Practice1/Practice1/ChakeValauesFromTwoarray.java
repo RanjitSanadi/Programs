@@ -8,7 +8,7 @@ public class ChakeValauesFromTwoarray {
 	public static void main(String[] args) 
 	{
 		String[] s1= {"java", "Python", "#c"};
-		String[] s2= {"java", "Python"};
+		String[] s2= {"java", "Python", "dd"};
 		
 		List<String> l1=Arrays.asList(s1);
 		List<String> l2=Arrays.asList(s2);
