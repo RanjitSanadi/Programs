@@ -1,6 +1,8 @@
 package Practice1.Practice1;
 
 import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
 
 public class RemovingDuplicates {
 
@@ -38,3 +40,26 @@ public class RemovingDuplicates {
 	}
 
 }
+
+
+
+
+
+
+
+/*   
+ int a[]= {2,4,5,3,4,5,8,7};
+		
+		Set<Integer> set=new HashSet<>();
+		
+		for(int n:a)
+		{
+			set.add(n);
+		}
+		
+		for(int c:set)
+		{
+			System.out.println(c);
+		}
+  
+ */
